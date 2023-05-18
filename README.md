@@ -8,7 +8,7 @@
 
 
 ![Charles GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesreisdev&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesreisdev&size_weight=0.5&count_weight=0.5)](https://github.com/CharlesReisDev?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesreisdev&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
