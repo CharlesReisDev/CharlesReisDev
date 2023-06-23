@@ -20,8 +20,6 @@
 
 <br>
 
-Admirador em tecnologias, jogos e de resultados positivos como feedback ou gostar do que eu faço. ^^
-
 ## Cursos em andamento:
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/CharlesReisDev/)<br>
