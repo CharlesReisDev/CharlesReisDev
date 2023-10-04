@@ -1,0 +1,5 @@
+.projetos{
+display: flex;
+justify-content: row;
+margin: 20px;
+}
