@@ -2,8 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=My+name+is+Charles.+%3AD;Welcome+to+my+profile.)
 
-# CharlesReisDev <img width="50" src="./img/gatinho.gif">
-
+  # CharlesReisDev  
+  <span> <img width="50" src="./img/gatinho.gif"> </span>
+  
 👋 Olá! Eu sou o Charles, um desenvolvedor Full-Stack de Minas Gerais.
 Minha paixão pela programação é tão forte quanto meu amor por um pão de queijo quentinho.
 
