@@ -25,5 +25,5 @@ Gosto de programação é tão forte quanto meu amor por um pão de queijo quent
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
+Se você tiver algum feedback, por favor nos deixe saber por meio de charlesreismagalhaes@outlook.com
 
