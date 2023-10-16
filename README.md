@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=228B22&center=true&vCenter=true&random=true&width=608&lines=Welcome+to+my+profile;Code%2C+coffee+and+welcome!+%E2%98%95;Persistence+and+code+are+the+keys;Create%2C+inspire%2C+innovate;Keep+going;Dream+big)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=228B22&center=false&vCenter=false&random=true&width=608&lines=Welcome+to+my+profile;Code%2C+coffee+and+welcome!+%E2%98%95;Persistence+and+code+are+the+keys;Create%2C+inspire%2C+innovate;Keep+going;Dream+big)
 
 
 ## 🚀 Sobre mim
